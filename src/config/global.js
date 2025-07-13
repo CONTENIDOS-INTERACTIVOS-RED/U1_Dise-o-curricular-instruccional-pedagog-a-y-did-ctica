@@ -17,7 +17,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '1',
         titulo:
-          'Conceptos fundamentales: currículo y diseño instruccional     ',
+          'Conceptos fundamentales: currículo y diseño instruccional',
         desarrolloContenidos: true,
         subMenu: [
           {
